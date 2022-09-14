@@ -4,7 +4,8 @@ Full stack developer oriented to back-end.
 
 ## Say hello:
 Write me an email
-or contact me on <a href="https://www.instagram.com/theandihaller/">Instagram</a>
+or contact me on <a href="https:/www.linkedin.com/in/andreas-haller-schade/">Linkedin</a>   
+
 
 
 ## Projects:
@@ -35,4 +36,4 @@ Link to the project: <a href="https://hfitness.vercel.app/">Henry Fitness</a>
 ## Find more about me:
 
 <a href="https://theandihaller.vercel.app/">Portfolio</a> 
-<a href="https://www.linkedin.com/in/andreas-haller-schade//">Linkedin</a>   
+<a href="https://www.instagram.com/theandihaller/">Instagram</a>
