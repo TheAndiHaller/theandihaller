@@ -1,9 +1,9 @@
 # Hello friend... Welcome!
 
-Full stack developer oriented to back-end.  
+My name is Andreas and i'm a Full Stack Developer oriented to back-end.  
 
 ## Say hello:
-Write me an email
+Write me an email andreashaller05@gmail.com
 or contact me on <a href="https:/www.linkedin.com/in/andreas-haller-schade/">Linkedin</a>   
 
 
