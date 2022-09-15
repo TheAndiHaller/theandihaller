@@ -2,11 +2,16 @@
 
 My name is Andreas and i'm a Full Stack Developer oriented to back-end.  
 
-## Say hello:
+## 🚀 Say hello:
 Write me an email andreashaller05@gmail.com
 or contact me on <a href="https:/www.linkedin.com/in/andreas-haller-schade/">Linkedin</a>   
 
-## Projects:
+## 🚀 Some languages and tools under my belt <br />
+![image](https://user-images.githubusercontent.com/90877760/190029736-cb3e6933-0349-43e0-bd98-e687fe02fbac.png)
+![image](https://user-images.githubusercontent.com/90877760/190009703-ba515ecd-2431-480f-a4da-9c8544fbae62.png)
+![image](https://user-images.githubusercontent.com/90877760/190009659-89a69142-895f-4321-83d2-782ff2b5e127.png)
+
+## 🚀 Projects:
 ### Tridibot
 The first big project I worked on was Tridibot, an open source 3D printed robot created for educational purposes. 
 My role was to write the code to control the robot (Arduino) and the web interface to control it (HTML CSS JS).
