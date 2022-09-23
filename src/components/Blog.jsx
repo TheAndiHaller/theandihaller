@@ -1,14 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Container from "react-bootstrap/Container";
+import Navbar from "./Navbar.jsx";
 
 export default function Blog() {
   return (
-    <div className="">
-      <Link to={"/"}>Home</Link>
-      <Link to={"/projects"}>Projects</Link>
-      <Link to={"/blog"}>Blog</Link>
-      <Link to={"/fullcv"}>Full CV</Link>
+    <Container>
+      <Navbar />
       <h1>Blog</h1>
-    </div>
+    </Container>
   );
 }

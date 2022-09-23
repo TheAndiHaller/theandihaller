@@ -2,20 +2,18 @@ import Nav from 'react-bootstrap/Nav';
 
 export default function Navbar() {
   return (
-    <Nav fill variant="tabs" defaultActiveKey="/home">
+    <Nav fill bg="dark" variant="dark" defaultActiveKey="/">
       <Nav.Item>
-        <Nav.Link href="/home">Active</Nav.Link>
+        <Nav.Link href="/">Home</Nav.Link>
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link eventKey="link-1">Loooonger NavLink</Nav.Link>
+        <Nav.Link href="/projects" eventKey="/projects">Projects</Nav.Link>
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link eventKey="link-2">Link</Nav.Link>
+        <Nav.Link href="/blog" eventKey="/blog">Blog</Nav.Link>
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link eventKey="disabled" disabled>
-          Disabled
-        </Nav.Link>
+        <Nav.Link href="/fullcv" eventKey="/fullcv" >Resume</Nav.Link>
       </Nav.Item>
     </Nav>
   );
