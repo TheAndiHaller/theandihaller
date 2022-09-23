@@ -13,7 +13,7 @@ export default function Navbar() {
         <Nav.Link href="/blog" eventKey="/blog">Blog</Nav.Link>
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link href="/fullcv" eventKey="/fullcv" >Resume</Nav.Link>
+        <Nav.Link href="/resume" eventKey="/resume" >Resume</Nav.Link>
       </Nav.Item>
     </Nav>
   );

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Container from "react-bootstrap/Container";
 import Navbar from "./Navbar.jsx";
 
-export default function FullCV() {
+export default function Resume() {
   return (
     <Container>
       <Navbar />
