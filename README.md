@@ -40,5 +40,5 @@ My role was to write the code to control the robot (Arduino) and the web interfa
 
 ## Find more about me:
 
-[Portfolio](href="https://theandihaller.com/)
-[Instagram](ref="https://www.instagram.com/theandihaller/)
+[Portfolio](https://theandihaller.com/)
+[Instagram](https://www.instagram.com/theandihaller/)
