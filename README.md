@@ -9,6 +9,7 @@ or contact me on [Linkedin](https://www.linkedin.com/in/andreas-haller-schade/?l
 ## 🚀 Projects:
 ### Trackeen
 Arduino-based device that allows users to log and track their habits. The information entered is automatically sent to Google Sheets through the Google API, enabling remote data storage and analysis.
+Landing: [Trackeen](https://trackeen.cl/)
 
 <img src="https://res.cloudinary.com/dzdh345nq/image/upload/v1730816589/git/trackeen.jpg" width="800" title="Trackeen">
 
@@ -29,7 +30,7 @@ Carrying out this project was a very big challenge and finishing it successfully
 
 <img src="https://res.cloudinary.com/dzdh345nq/image/upload/v1663123854/git/Screenshot_4_ix133e.png" width="800" title="Henry Fitness">
 
-Link to the project: [Henry Fitness](href="https://hfitness.vercel.app/)
+Link to the project: [Henry Fitness](https://hfitness.vercel.app/)
 
 ### Tridibot
 The first big project I worked on was Tridibot, an open source 3D printed robot created for educational purposes. 
