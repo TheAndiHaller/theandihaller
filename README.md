@@ -4,19 +4,15 @@ My name is Andreas and i'm a Full Stack Developer oriented to back-end.
 
 ## 🚀 Say hello:
 Write me an email andreashaller05@gmail.com
-or contact me on <a href="https:/www.linkedin.com/in/andreas-haller-schade/">Linkedin</a>   
+or contact me on [Linkedin](https:/www.linkedin.com/in/andreas-haller-schade/).
 
-## 🚀 Some languages and tools under my belt <br />
-![image](https://user-images.githubusercontent.com/90877760/190029736-cb3e6933-0349-43e0-bd98-e687fe02fbac.png)
-![image](https://user-images.githubusercontent.com/90877760/190009703-ba515ecd-2431-480f-a4da-9c8544fbae62.png)
-![image](https://user-images.githubusercontent.com/90877760/190009659-89a69142-895f-4321-83d2-782ff2b5e127.png)
 
 ## 🚀 Projects:
-### Tridibot
-The first big project I worked on was Tridibot, an open source 3D printed robot created for educational purposes. 
-My role was to write the code to control the robot (Arduino) and the web interface to control it (HTML CSS JS).
+### Trackeen
+Arduino-based device that allows users to log and track their habits. The information entered is automatically sent to Google Sheets through the Google API, enabling remote data storage and analysis.
 
-<img src="https://res.cloudinary.com/dzdh345nq/image/upload/v1663122441/git/IMG-20171028-WA0013_oj7kdg.jpg" width="800" title="Tridibot">
+<img src="https://res.cloudinary.com/dzdh345nq/image/upload/v1730816589/git/trackeen.jpg" width="800" title="Trackeen">
+
 
 ### Henry Fitness
 A WebApp created for the Bootcamp SoyHenry.
@@ -34,9 +30,15 @@ Carrying out this project was a very big challenge and finishing it successfully
 
 <img src="https://res.cloudinary.com/dzdh345nq/image/upload/v1663123854/git/Screenshot_4_ix133e.png" width="800" title="Henry Fitness">
 
-Link to the project: <a href="https://hfitness.vercel.app/">Henry Fitness</a>
+Link to the project: [Henry Fitness](href="https://hfitness.vercel.app/)
+
+### Tridibot
+The first big project I worked on was Tridibot, an open source 3D printed robot created for educational purposes. 
+My role was to write the code to control the robot (Arduino) and the web interface to control it (HTML CSS JS).
+
+<img src="https://res.cloudinary.com/dzdh345nq/image/upload/v1663122441/git/IMG-20171028-WA0013_oj7kdg.jpg" width="800" title="Tridibot">
 
 ## Find more about me:
 
-<a href="https://theandihaller.vercel.app/">Portfolio</a> 
-<a href="https://www.instagram.com/theandihaller/">Instagram</a>
+[Portfolio](href="https://theandihaller.com/)
+[Instagram](ref="https://www.instagram.com/theandihaller/)
