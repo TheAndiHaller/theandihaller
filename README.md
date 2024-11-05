@@ -4,8 +4,7 @@ My name is Andreas and i'm a Full Stack Developer oriented to back-end.
 
 ## 🚀 Say hello:
 Write me an email andreashaller05@gmail.com
-or contact me on [Linkedin](https:/www.linkedin.com/in/andreas-haller-schade/).
-
+or contact me on [Linkedin](https://www.linkedin.com/in/andreas-haller-schade/?locale=en_US)
 
 ## 🚀 Projects:
 ### Trackeen
